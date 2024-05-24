@@ -7,9 +7,9 @@ UP = SPACE
 
 DOWN = LeftSide-Shift
 
-Forward = W
+FORWARD = W
 
-Backwards = S
+BACKWARDS = S
 
 LEFT = A
 
