@@ -2,6 +2,7 @@
 
 # Controls to move in 3D space:
 
+
 UP = SPACE
 
 DOWN = LeftSide-Shift
